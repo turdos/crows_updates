@@ -30,6 +30,9 @@ auto KiekTuri_wood = 0;
 Player::OnDialogRequest(peer, "set_default_color|`o\nadd_label_with_icon|big|`wMadenci: Degis-Tokus``|left|3902|\nadd_textbox|Mukemmel! yanima geldigine sevindim! bana maden satarak elmas kazanabilirsin.|left|\nadd_label_with_icon|small|Suanda senin " + to_string(KiekTuri_wood) + " Odunun var.|left|9562|\nadd_label_with_icon|small|Suanda senin " + to_string(KiekTuri_obsidian) + " Obsidyenin var.|left|9580|\nadd_label_with_icon|small|Suanda senin " + to_string(KiekTuri_gold) + " Altinin var.|left|9566|\nadd_label_with_icon|small|Suanda senin (KiekTuri_diamond) Elmasin var.|left|9568|\nadd_spacer|small|text_scaling_string|5000WTASDASDASD|\nadd_button_with_icon|sellallwood|Satarsan to_string(KiekTuri_wood * 1000) elmas|noflags|9562||\nadd_button_with_icon|sellallgold|Satarsan to_string(KiekTuri_gold * 2500) elmas|noflags|9580||\nadd_button_with_icon|sellallobsidian|Satarsan to_string(KiekTuri_obsidian * 4000) elmas|noflags|9566||\nadd_button_with_icon|sellalldiamond|Satarsan to_string(KiekTuri_coal * 6000) elmas|noflags|9568||\nadd_button_with_icon||END_LIST|noflags|0||\nadd_button|chc2|Geri|noflags|0|0|\nend_dialog|phonecall|Bilgi Icin Tesekkurler||");
 }
 
+// world.h
+
+i will continue
 
 
 
